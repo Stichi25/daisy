@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bem-grid": "^2.5.0",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
     "node-bourbon": "^4.2.8"
+  },
+  "dependencies": {
+    "sharps": "^3.0.3"
   }
 }

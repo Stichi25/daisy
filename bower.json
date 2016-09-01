@@ -1,0 +1,17 @@
+{
+  "name": "daisy",
+  "version": "0.0.0",
+  "authors": [
+    "Olga <olga-melnikovaa@mail.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.1.2",
+    "sharps": "bem-grid#^3.0.3"
+  }
+}
